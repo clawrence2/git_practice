@@ -1,1 +1,2 @@
 //this bloated text file should be dleted
+why aren't you tracking text changes? 
